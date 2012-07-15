@@ -15,4 +15,4 @@
 /tmp
 
 # Ignore IDE local config
-.idle
+.idea
